@@ -31,5 +31,11 @@
     "tailwindcss": "^0.7.0",
     "vue-cli-plugin-fontawesome": "^0.2.0",
     "vue-template-compiler": "^2.5.21"
+  },
+  "prettier": {
+    "trailingComma": "es6",
+    "tabWidth": 2,
+    "semi": false,
+    "singleQuote": true
   }
 }
