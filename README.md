@@ -1,4 +1,6 @@
-# watch-us-build-trello
+# Trello clone using Vue
+
+[VueMastery](https://www.vuemastery.com/courses/watch-us-build-trello-clone) course unlocked occasionally in the weekend
 
 ## Project setup
 ```
